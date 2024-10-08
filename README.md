@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @raselislam29
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Application Development
 - 💞️ I’m looking to collaborate on working data analysis
-- 📫 How to reach me : raselislam.ncc@outlook.com
+- 📫 How to reach me : islar1@farmingdale.edu 
 
 
 <!---
