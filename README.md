@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rasel Islam
 - Currently Studing at SUNY Farmingdale
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Cybersecurity and IT risk
 - 💞️ I’m looking to collaborate on working data analysis
 - 📫 How to reach me : islar1@farmingdale.edu
 - visit my website for more information: https://portfoilo-seven-psi.vercel.app/
